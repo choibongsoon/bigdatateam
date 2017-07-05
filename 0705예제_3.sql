@@ -46,3 +46,5 @@ insert into takeclass values('20101904','1100864',67,default);
 insert into takeclass values('20108734','1109496',90,default);
 insert into takeclass values('20108734','1100864',67,default);
 commit;
+
+rollback;
